@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mollyarty
 - 👀 I’m interested in ... machine learning and simulation
-- 🌱 I’m currently learning ... C#
+- 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... not sure
 - 📫 How to reach me ... lizzyenns8@gmail.com
 
