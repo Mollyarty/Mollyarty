@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mollyarty
 - 👀 I’m interested in ... machine learning and simulation
 - 🌱 I’m currently learning ... C++
-- 💞️ I’m looking to collaborate on ... not sure
+- 💞️ I’m looking to collaborate on ... I'm too shy to reach out and ask to help with anything
 - 📫 How to reach me ... lizzyenns8@gmail.com
 
 <!---
